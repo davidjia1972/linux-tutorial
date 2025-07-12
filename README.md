@@ -74,7 +74,7 @@
 
 ### [附件2：Linux 管道与重定向简明指南](./markdown/附件2：Linux管道与重定向简明指南.md) [(PDF)](./pdf/附件2：Linux管道与重定向简明指南.pdf)
 
-### [附件3：vi/vim 简简明教程](./markdown/附件3：vi_vim简简明教程.md) [(PDF)](./pdf/附件3：vi_vim简简明教程.pdf)
+### [附件3：vi/vim 简明教程](./markdown/附件3：vi_vim简明教程.md) [(PDF)](./pdf/附件3：vi_vim简明教程.pdf)
 
 ### [附件4：使用 APT 管理软件包](./markdown/附件4：使用APT管理软件包.md) [(PDF)](./pdf/附件4：使用APT管理软件包.pdf)
 
